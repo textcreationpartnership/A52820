@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of this present blasing-star presenting it self to the view of the world, this August 1682 to the sundry considerable remarks and observations thereupon.</title>
+            <author>Ness, Christopher, 1621-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52820</idno>
+            <idno type="STC">Wing N466</idno>
+            <idno type="STC">ESTC R6788</idno>
+            <idno type="EEBO-CITATION">12637037</idno>
+            <idno type="OCLC">ocm 12637037</idno>
+            <idno type="VID">64914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64914)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 966:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of this present blasing-star presenting it self to the view of the world, this August 1682 to the sundry considerable remarks and observations thereupon.</title>
+                  <author>Ness, Christopher, 1621-1705.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>Attributed to Christopher Ness. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comets --  1682.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:64914:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT Of this Preſent BLASING-STAR.</head>
+            <head type="sub">Preſenting it ſelf to the View of the World. This <hi>Auguſt. 1682.</hi> with Sundry Conſiderable Remarks and Obſervations thereupon.</head>
+            <p>WHereas I formerly Publiſhed, for publick good, in the Year
+1680. a ſmall Treatiſe of <hi>Three Sheets,</hi> and ſome few Pages (as a
+<hi>Supplement</hi> thereunto) In my <hi>wonderful Signs of wonderful Times.</hi> Page, 37, 38. 39, and 40 upon that moſt <hi>Prodigious</hi> and moſt <hi>Stupendious Comet</hi> (then Appearing) above all that have been this many Hundred Years. And therefore <hi>It</hi> deſerveth Larger and more Learned animadverſions upon it, from the Acuteſt and Exacteſt Artiſts in the World. Theſe my former Labours, finding ſo much Ac<g ref="char:EOLhyphen"/>ceptance and Succeſs both in City and Country, I have now <hi>Renewed</hi> the like Eſſay, as the great God is now <hi>Renewing</hi> the like
+<hi>Occaſion</hi> and <hi>Object</hi> in this preſent Year 1682. 'Tis an undeniable Duty to Study <hi>Gods Works,</hi> as well as <hi>Gods Word,</hi> to Read the <hi>Book of Nature,</hi> as well as the <hi>Book of Scripture,</hi> Eſpecially when and wherewith (when <hi>Drawn over</hi>) He would hide this View, As this <hi>Comet</hi> now is: Who can but wonder that ſuch <hi>Strange Lights</hi> ſhould be thus frequently Hang'd forth in the <hi>Heavens,</hi> and ſuch <hi>frightful Beacons</hi> ſhould be thus faſt Fired in the Firmament, There being but one Year betwixt the <hi>Former</hi> and the
+<hi>Latter,</hi> and the former being ſo Tremendous, as can<g ref="char:EOLhyphen"/>not eaſily, (however not yet) be forgotten, nor can <hi>its</hi> Dreadful Effects be as yet Ac<g ref="char:EOLhyphen"/>compliſhed, when Lo another Starteth forth to the Worlds Amazement. The firſt fair and full View I got of this <hi>New Comet.</hi> was upon this 20th of <hi>Auguſt.</hi> betwixt Eight and Nine at Night, When the Sky was very clear, ſave onely one Black Cloud near <hi>it,</hi> which ſeem'd to be a
+<hi>Curtain</hi> that God had <hi>Drawn off,</hi> to give the World a fairer and fuller proſpect of this <hi>Strange Streaming Star,</hi> any thing Rare and Extraordinary is ex<g ref="char:EOLhyphen"/>poſed to publick <hi>Light</hi> as in a <hi>Dark Lantern</hi> again: According to the Beſt proſpect I could then (both with Glaſſes and without) obtain, I Immediately Drew up thoſe following Animadverſions <hi>(Quales quales Sunt Raptim Suggeſtas)</hi> in writeing;</p>
+            <p>
+               <hi>I</hi> made my principal Remarks, (1) upon the <hi>Kind</hi> or <hi>Form</hi> of this new <hi>Comet.</hi> (2) upon its <hi>Colour.</hi> (3) upon its <hi>Scituation.</hi> (4) upon its <hi>Motion,</hi> and (5) upon its
+<hi>Signification.</hi>
+            </p>
+            <p>Firſt, As to its <hi>Kind, Comets</hi> are ſome of one
+<hi>Kind,</hi> and ſome of another; diſtinguiſh<g ref="char:EOLhyphen"/>ed by their ſeveral forms of appearance, and I obſerved that this is not. (1) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Barbatus,</hi> or a <hi>Bearded Comet;</hi> having no Flame falling downward (like a <hi>mans Beard</hi> that hangs down from the Head, or like an <hi>Horſes Main,</hi> that hangs down from the Neck) from the former part of <hi>its Body:</hi> nor, (2) Is it <hi>Cometa Crinitus,</hi> an <hi>Hairy Star,</hi> Surrounded with <hi>Rays</hi> and flaſhes of Fire (as the <hi>Buſhy</hi> Head is with curled and cri<g ref="char:EOLhyphen"/>ſped Hair) and ſpurting forth its Flames from all its parts round about. But, (3) It is <hi>Cometa Caudatus;</hi> A <hi>Star</hi> with a <hi>Tail</hi> or <hi>Train,</hi> Sputtering out its Fire from the hinder part of its Body in its Deſcending Motion: It paſſed along downward like a <hi>Fuzzee,</hi> or <hi>Fired Squib,</hi> Fuzzing out its Flames in the <hi>form</hi> of a
+<hi>Birch-Beſom,</hi> or the <hi>Tail</hi> of a <hi>Pea<g ref="char:EOLhyphen"/>cock;</hi> which was the very ſame form of the late <hi>formidable Comet.</hi>
+            </p>
+            <p>Secondly, As to its <hi>Colour;</hi> I could not find that this is of a <hi>Duskie Leadon</hi> Complex<g ref="char:EOLhyphen"/>ion, as <hi>Saturn</hi> is, and as the laſt <hi>Dreadful Star</hi> was: neither did it ſeem ſo Fiery as
+<hi>Mars</hi> is, and <hi>Fomahant</hi> or <hi>Campus,</hi> that fixed Star of the firſt Magnitude: nor did it appear <hi>Golden</hi> as the <hi>Sun, Pale</hi> and <hi>Wan,</hi> as the <hi>Moon,</hi> or <hi>yellow,</hi> as
+<hi>Venus:</hi> but it was ſeen ſplendid as <hi>Jupiter;</hi> from whoſe Dominion or Predominancy in its Genera<g ref="char:EOLhyphen"/>tion and Preduction, It hath derived its Luſtre and Beauty, appearing in the ſplendour of a <hi>Star,</hi> of the
+<hi>firſt Magnitude</hi> in the eighth Sphere of the Heavens. So <hi>it</hi> becomes and may truly be called a <hi>Jovial Star.</hi>
+            </p>
+            <p>Thirdly, As to its <hi>Scituation,</hi> though <hi>Comets</hi> be moſtly Erratick, as the <hi>Planets,</hi> and fix no where in the Heavens as doe the <hi>fixed Stars;</hi> yet this at preſent ſeems ſcituated not far off from <hi>
+                  <g ref="char:V">Ʋ</g>rſa Maior,</hi> which is above it, as <hi>Cor l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onis</hi> is under it, and hath a North Latitude, at no great <hi>Diſtance</hi> from the <hi>Northern Pole;</hi> but <hi>much leſs</hi> from the Artick Circle: Having that Glorious Star <hi>(Arcturus)</hi> in its view.</p>
+            <p>Fourthly, As to its <hi>Motion,</hi> This at preſent may be well conjectured to be <hi>Slow</hi> from its <hi>preſent Scituation,</hi> whereof we have a plain and familiar Inſtance in a common Ocu<g ref="char:EOLhyphen"/>lar Demonſtration: As the <hi>Nave</hi> of a Cart-wheel muſt move much ſlower than the <pb facs="tcp:64914:2" rendition="simple:additions"/>Ring or remoteſt
+<hi>Rim</hi> of that <hi>Wheel</hi> moveth, becauſe the former is <hi>nearer to,</hi> and the latter is <hi>farther from</hi> the Axle-Tree upon which they both are turned: Now that which hath the leſſer <hi>Circle</hi> and Circumference to run, muſt needs move ſlower than that which hath
+<hi>one</hi> ten times greater to compaſs, when both the <hi>one</hi> and the
+<hi>other</hi> muſt exactly run round their Circular Courſe at one and the ſame preciſe point of time: The <hi>Rim</hi> runs round as ſoon as the
+<hi>Nave,</hi> though it have the far greater Circles. And the <hi>Nave</hi> is no ſooner about than the Ring, though it have the far leſſer Circumference, The like may be demonſtrated upon all Wheels which are moved upon one Axle-Tree, the parts whereof make their <hi>Launches</hi> in motion
+<hi>leſſer</hi> or <hi>larger,</hi> as they are diſtant from their
+<hi>Canter,</hi> (nigher or remoter) all proportionably concurring to accompliſh their Courſe and Circumference together: So 'tis with this
+<hi>Blazing Star,</hi> Now ſeated ſo nigh the Northern Pole, it hath the like motion with the external part of the <hi>Nave,</hi> or <hi>Ends</hi> of the <hi>Spokes,</hi> fixed in it, which fulfil their Courſe no faſter than thoſe <hi>Ends</hi> faſtened in the <hi>Ring</hi> or <hi>Rim</hi> of the Wheels, though they have a ſmaller Circle: And this is the true Reaſon, why this <hi>Comet ſets</hi> now about <hi>eleven a clock,</hi> and
+<hi>riſes</hi> again about <hi>three;</hi> becauſe it is whirled about by the <hi>primum mobile,</hi> in that part of the Firmament, which is ſo nigh the <hi>Northern Pole:</hi> Therefore it can have no long receſs out of our Hori<g ref="char:EOLhyphen"/>ſontal fight, this is plainly exemplified by the <hi>Sun,</hi> which in the <hi>Tropick of Cancer</hi> (nigh<g ref="char:EOLhyphen"/>er our <hi>Zenith,</hi> and the
+<hi>Northern Pole</hi>) hath ſhorter Nights and longer Days, than when it is farther off in the <hi>Tropick of Capricorn.</hi> Now whereas the <hi>great Bear</hi> (being ſo nigh the <hi>leſſer Bear</hi> or <hi>Pole</hi>) never ſets at all to us, but runs its own Circle Night and Day in our Horizon, never viſiting the other Hemiſphere: So 'tis but rational, that <hi>this Star,</hi> ſcituated ſo nigh to <hi>it,</hi> ſhould have onely a ſhort dip under the Globe of the Earth, ſhewing it ſelf a little while to the other Horizon. The long Train whereof, never all, ſets at all, but ſome part of its top may be diſcerned in a clear Sky, in remoter pla<g ref="char:EOLhyphen"/>ces,
+<hi>&amp;c.</hi> So that ſaving theſe few hours betwixt Setting and Riſing, it is ſputtering out its Flames in our Hemiſphere for twenty hours together.</p>
+            <p>Therefore (Fiftly) Its <hi>Signification</hi> muſt needs be the more <hi>Signal and ſingular,</hi> which for want of Room in this half ſheet, I muſt Refer the Reader to <hi>my three Sheets</hi> upon the laſt Aſtoniſhing <hi>Comet,</hi> and to my <hi>Signes of the Times.</hi> Pag.
+38, 39, 40. Where I have Inlarged, here onely Obſerve the difference of this from that, The Blazing Star in 1680. was a <hi>Leſſer Body</hi> with a
+<hi>greater Train,</hi> This in 1682. is a greater Body with (yet) a
+<hi>Leſſer Tail:</hi> that was <hi>Saturnine</hi> and <hi>Sullen,</hi> (Portending the ſad <hi>Inundations, Deſclations</hi> and
+<hi>Hurricans,</hi> &amp;c. Since happened) This is Jovial, prognoſticating
+<hi>Joy Jovialty</hi> and <hi>Jollity,</hi> &amp;c. Yet both Concurr in being the <hi>forerunners</hi> (that the former and <hi>this</hi> the latter and more
+<hi>Immediate</hi>) of that great Climacterical Conjunction this next
+<hi>October</hi> in the <hi>Sign Leo</hi> which moſtly Reſpects the Northern part of the World. As there was but <hi>one</hi> Year 'twixt <hi>that Comet</hi> and <hi>this,</hi> ſo there is but <hi>one Month</hi> 'twixt this
+<hi>Comet</hi> and this great Conjunction of <hi>Saturn</hi> and
+<hi>Jupiter</hi> with <hi>Mars</hi> in the Fiery Trigon, which falls out very Rarely, In the ſpace onely of about 800. Years (the exact Revolution hereof be<g ref="char:EOLhyphen"/>ing above 794, Years,(the <hi>firſt</hi> in the World (as
+<hi>Tychobrake</hi> ſaith) was under <hi>Enock</hi> the <hi>Second</hi> under
+<hi>Noah,</hi> the <hi>Sixt</hi> under <hi>Charls</hi> the <hi>Great, When the Roman Empire.</hi> was Tranſlated into <hi>Germany:</hi> Now the 7th (<hi>which</hi> is Sabattical) is at hand and may bring a <hi>Sabbeth of Reſt,</hi> Thoſe <hi>Superior Planets</hi> now Returning to the point and poſture They were placed in at the Worlds Creation <hi>Alſted</hi> Encuclop. Uranoſc, Lib. 11. Pag. 125. And <hi>Kepler</hi> long agoe f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retold, that the Conjunction of thoſe Superior planets in <hi>Leo</hi> would deſtroy and Drain up the
+<hi>Dreggs</hi> of the <hi>Roman Church,</hi> 'Tis not Improbable, that As all the other <hi>Six Revolutions</hi> (afore mentioned) had ſome Grand Remark upon them, ſo may this <hi>Sabbatiſm</hi> or 7th have much more ſeeing it happeneth in the laſt Times, and <hi>great are the Promiſes</hi> of the
+<hi>Latter Day:</hi> Eſpecially ſeeing this Laſt <hi>Conjunction</hi> is Vſherd in with two Praecurſors or Harbingers (two <hi>World-Amazing Comets</hi>) as with a double <hi>Signet Sign</hi> or Autoritative
+<hi>Broad-Seal:</hi> and this <hi>Seale</hi> is Doubled (like <hi>Pharaohs Dream</hi>) to Import both the <hi>Aſſurance,</hi> and the Expedition of what great things God is about to do: If the <hi>former Signal Comet</hi> (the like whereof hath not been this 800. Years) put the <hi>Pope</hi> into ſuch a Cold Conſternation, and ſhaking Paroxyſm, that nothing but a <hi>Dutch Stove</hi> could keep him warm, what more may <hi>this Latter</hi> do which hath ſo <hi>great a Conjunction</hi> at the very Heels of it. all which are loud alarms to awaken the Slum<g ref="char:EOLhyphen"/>bring World. <hi>David</hi> ſaith, the
+<hi>Heavens Declare the Glory of God,</hi> They are the Catholick-Preachers of his <hi>Wiſdom, Power</hi> and <hi>Goodneſs,</hi> a <hi>Book,</hi> that was Imprinted at the <hi>New Jerusalem</hi> by the hand of <hi>Jehovah</hi> himſelf, and is not to be <hi>Sold</hi> but to be ſeen (at the Sign of
+<hi>Celeſtial Glory</hi>) by all that looks up to Heaven; tis our Duty (ſaith Mr. <hi>Caryl</hi> on <hi>J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</hi> vol; 3. P. 221.) to Study the Heavens and to be
+<hi>Accquainted with the Stars,</hi> Eſ<g ref="char:EOLhyphen"/>pecially thoſe Extraordinary ones, always ſent to ſignify ſome great Matters to Come, and I wiſh with Honeſt <hi>Nat. Tompſon</hi> (in his Intellgence this <hi>Aug.</hi> 22.) Hartily that this Comet may preſage no worſe things to us than the Deſtruction of all <hi>Plotters, Perjurers, Swearing Maſters</hi>
+            </p>
+            <closer>Truly ſo Thus Prayeth
+<signed>C. N.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>L. Curtis</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
